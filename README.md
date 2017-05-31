@@ -9,10 +9,15 @@ the user inputs two primes P and Q and e (the public key exponent)
 then he inputs one or more of the available queries ,the available queries are :
 
 IsPPrime
+
 IsQPrime
+
 Print N
+
 Print Phi
+
 EncryptPublic=<"message to be encrypted">
+
 EncryptPrivate=<"message to be decrypted">
 
 Quit --> this terminates the program
